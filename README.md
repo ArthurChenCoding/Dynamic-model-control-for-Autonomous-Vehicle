@@ -1,4 +1,4 @@
-# Dynamic model control for Autonomous Vhical
+# Dynamic model control for Autonomous Vehicle
 * The terminology, design considerations and safety assessment of self-driving cars. 
 
 * The control code to navigate a self-driving car around a racetrack in the CARLA simulation environment.
