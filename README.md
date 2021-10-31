@@ -1,1 +1,1 @@
-# Dynamic model Control for Autonomous Vhical
+# Dynamic model control for Autonomous Vhical
